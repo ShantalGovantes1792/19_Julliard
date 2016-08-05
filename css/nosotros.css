@@ -1,0 +1,30 @@
+.ban-ini-nos{
+	background-image: url("../img/dance_7.jpg");
+	height: 380px;
+	background-repeat: no-repeat; 
+	background-position: center;
+}
+.par-banner{
+	width: 500px;
+	height: 200px;
+	background-color: black;
+	opacity: 0.5;
+	margin: 10% auto;
+	padding: 5%;
+}
+.fond-cuad-2{
+	background-image: url("../img/cubes.png");
+}
+h6{
+	font-size: 20px;
+}
+.padding-c{
+	padding-left: 4%;
+	padding-right: 20px;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+.c2{
+	height: 250px;
+	width: 100%;
+}

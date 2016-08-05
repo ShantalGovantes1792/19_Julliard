@@ -1,0 +1,23 @@
+.tam-imgs{
+	height: 400px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding-top: 150px;
+}
+.fond-img1{
+	background-image: url("../img/dance_12.jpg");
+}
+.fond-img2{
+	background-image: url("../img/dance_13.jpg");
+}
+.caps{
+	font-variant: small-caps;
+	font-size: 16px;
+	font-weight: bolder;
+}
+.pantalla-gris{
+	padding: 30px 8px 0px 8px;
+	background-color: black;
+	opacity: 0.7;
+	height: 120px;
+}
